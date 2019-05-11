@@ -5,6 +5,7 @@ import quotaManage from '@/views/sideMenu/quotaManage.vue'
 import assessmentManage from '@/views/sideMenu/assessmentManage.vue'
 import assessmentResult from '@/views/sideMenu/assessmentResult.vue'
 import indicators from '@/views/indicators/indexes'
+
 Vue.use(Router)
 
 export default new Router({

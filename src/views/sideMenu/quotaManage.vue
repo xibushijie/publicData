@@ -125,7 +125,7 @@ export default {
   methods: {
     onAdded() {
       // window.open("./quotaManage/indexes");
-      this.$router.push({ path: "/quotaManage/indexes" });
+      this.$router.push({ path: "/indexes" });
       console.log(111);
     },
     onsubmit() {},
