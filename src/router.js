@@ -2,16 +2,16 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/views/Home.vue'
 import quotaManage from '@/views/sideMenu/quotaManage/quotaManage.vue'
-// import quotaManageAdd from '@/views/sideMenu/quotaManage/add.vue'
-// import quotaManageEdit from '@/views/sideMenu/quotaManage/edit.vue'
+import quotaManageAdd from '@/views/sideMenu/quotaManage/add.vue'
+import quotaManageEdit from '@/views/sideMenu/quotaManage/edit.vue'
 
 import assessmentManage from '@/views/sideMenu/assessmentManage/assessmentManage.vue'
 // import quotaManageAdd from '@/views/sideMenu/quotaManage/add.vue'
 // import quotaManageEdit from '@/views/sideMenu/quotaManage/edit.vue'
 
 import assessmentResult from '@/views/sideMenu/assessmentResult/assessmentResult.vue'
-import quotaManageAdd from '@/views/sideMenu/quotaManage/add.vue'
-import quotaManageEdit from '@/views/sideMenu/quotaManage/edit.vue'
+// import quotaManageAdd from '@/views/sideMenu/quotaManage/add.vue'
+// import quotaManageEdit from '@/views/sideMenu/quotaManage/edit.vue'
 
 
 Vue.use(Router)
