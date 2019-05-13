@@ -9,7 +9,7 @@
         </el-form-item>
         <el-form-item>
           <el-button type="primary" @click="onsubmit()">
-            <i class="el-icon-search"></i> 查询
+            <i class="el-icon-search"></i> 搜索
           </el-button>
         </el-form-item>
       </el-form>
